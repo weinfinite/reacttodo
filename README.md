@@ -1,3 +1,6 @@
+> Demo https://weinfinite-reacttodo.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,6 +70,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-References 
+### References 
 https://hackernoon.com/create-a-simple-todo-app-in-react-9bd29054566b
-
+https://medium.com/quick-code/deploying-production-build-of-react-app-to-heroku-2548d8bf6936
+https://blog.heroku.com/deploying-react-with-zero-configuration
+https://reactjs.org/docs/hello-world.html
